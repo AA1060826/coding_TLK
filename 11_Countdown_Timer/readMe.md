@@ -1,4 +1,4 @@
-1.assign count a number u want to start from
+1.assign count a number you want the countdown to start from
 
 2.start a while loop 
 
