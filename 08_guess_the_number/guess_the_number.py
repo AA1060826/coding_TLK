@@ -17,8 +17,9 @@ while guess != number:
 #assign guess a int value
     guess = int(input("Guess a number between 1 and 10: "))
 #if guess is not equal to number then print "wrong!"
-if guess != number:
-    print("Wrong!")
+    if guess != number:
+        print("Wrong!")
+
 #if guess = number print "you got it"
 if guess == number:
     print("You got it!")
