@@ -1,3 +1,12 @@
+#-----------------------------------------------------------------------------
+# Name: List_slicing_and_length
+# Purpose: To slice a list and get its length
+#
+# Author:Adithya Arikuti
+# Created 4-April-2025
+# Updated: 4-April-2025
+#-----------------------------------------------------------------------------
+
 # Create a list of colors
 colors = ['red', 'blue', 'green', 'yellow', 'purple']
 
